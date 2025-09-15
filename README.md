@@ -26,7 +26,7 @@ A minimal example to get users started quickly.
 Specify the machine learning force field in FastTrack/config.py, including the model and parameter paths.
 
 ```python
-from FastTrack import kkk  # or main class/API
+from FastTrack import kkk  
 
 barrier_energy = kkk("LiFePO4.cif",'Li',1)   #maximum lithiation limit
 #or
