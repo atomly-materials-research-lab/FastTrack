@@ -38,11 +38,11 @@ barrier_energy = kkk("LiFePO4.cif",'Li',0)   #maximum delithiation limit
 If you use this repository in your research, please cite the original work:
 
 ```bibtex
-@article{Kang2024FastTrack,
+@article{Kang2025FastTrack,
   title = {FastTrack: A Fast Method to Evaluate Mass Transport in Solid Leveraging Universal Machine Learning Interatomic Potential},
   author = {Kang, Hanwen and Lu, Tenglong and Qi, Zhanbin and Guo, Jiandong and Meng, Sheng and Liu, Miao},
   journal = {arXiv preprint arXiv:2508.10505},
-  year = {2024},
+  year = {2025},
   doi = {10.48550/arXiv.2508.10505},
   url = {https://arxiv.org/abs/2508.10505}
 }
