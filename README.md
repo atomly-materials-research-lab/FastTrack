@@ -39,11 +39,14 @@ If you use this repository in your research, please cite the original work:
 
 ```bibtex
 @article{Kang2025FastTrack,
-  title = {FastTrack: A Fast Method to Evaluate Mass Transport in Solid Leveraging Universal Machine Learning Interatomic Potential},
-  author = {Kang, Hanwen and Lu, Tenglong and Qi, Zhanbin and Guo, Jiandong and Meng, Sheng and Liu, Miao},
-  journal = {arXiv preprint arXiv:2508.10505},
-  year = {2025},
-  doi = {10.48550/arXiv.2508.10505},
-  url = {https://arxiv.org/abs/2508.10505}
+  title   = {FastTrack: A fast method to evaluate mass transport in solid leveraging universal machine learning interatomic potential},
+  author  = {Kang, Hanwen and Lu, Tenglong and Qi, Zhanbin and Guo, Jiandong and Meng, Sheng and Liu, Miao},
+  journal = {AI for Science},
+  volume  = {1},
+  pages   = {015004},
+  year    = {2025},
+  publisher = {IOP Publishing Ltd on behalf of the Songshan Lake Materials Laboratory},
+  doi     = {10.1088/3050-287X/ae0808},
+  url     = {https://doi.org/10.1088/3050-287X/ae0808}
 }
 
