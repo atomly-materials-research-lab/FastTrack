@@ -45,7 +45,7 @@ If you use this repository in your research, please cite the original work:
   volume  = {1},
   pages   = {015004},
   year    = {2025},
-  publisher = {IOP Publishing Ltd on behalf of the Songshan Lake Materials Laboratory},
+  publisher = {IOP Publishing},
   doi     = {10.1088/3050-287X/ae0808},
   url     = {https://doi.org/10.1088/3050-287X/ae0808}
 }
